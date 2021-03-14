@@ -1,3 +1,6 @@
 [submodule "ci"]
 	path = ci
 	url = ../ci/
+[submodule "web2-pertemuan1"]
+	path = web2-pertemuan1
+	url = https://github.com/robyfirnandoyusuf/web2-pertemuan1.git
